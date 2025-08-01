@@ -1,5 +1,5 @@
-# Structures
-# C++ Quiz Structures Project
+# Quiz
+# C++ Structures Educational Project
 
 This project demonstrates the use of C++ structures and basic file I/O by implementing a simple console-based quiz application.
 
